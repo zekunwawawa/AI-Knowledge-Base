@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI知识大扫盲/未命名.md",
+                "file": "github常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "github常用命令"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "8eb80be2c978378a",
@@ -186,6 +186,7 @@
   },
   "active": "7bb138a6eb5d6631",
   "lastOpenFiles": [
+    "github常用命令.md",
     "gitignore.md",
     "AI知识大扫盲/未命名.md",
     "_templates/AI名词扫盲模板.md",
